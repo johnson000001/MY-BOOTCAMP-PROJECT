@@ -21,3 +21,5 @@ All resources used through the course of the projct were gotten from  www.kaggle
 SELECT* FROM TABLE 1
 WHERE CONDITION= MET
 ~~~
+
+![DATA ANALYTICS](
