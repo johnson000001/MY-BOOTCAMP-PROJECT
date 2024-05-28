@@ -22,4 +22,9 @@ SELECT* FROM TABLE 1
 WHERE CONDITION= MET
 ~~~
 
-![DATA ANALYTICS](
+![DATA ANALYTICS](How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg)
+
+
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|--------|
+ |Data1|Data 2|Data3|
